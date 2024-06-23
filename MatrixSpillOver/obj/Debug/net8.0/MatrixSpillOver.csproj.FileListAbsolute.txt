@@ -1,0 +1,14 @@
+D:\projects\github\matrix-spillover\source\MatrixSpillOver\bin\Debug\net8.0\MatrixSpillOver.exe
+D:\projects\github\matrix-spillover\source\MatrixSpillOver\bin\Debug\net8.0\MatrixSpillOver.deps.json
+D:\projects\github\matrix-spillover\source\MatrixSpillOver\bin\Debug\net8.0\MatrixSpillOver.runtimeconfig.json
+D:\projects\github\matrix-spillover\source\MatrixSpillOver\bin\Debug\net8.0\MatrixSpillOver.dll
+D:\projects\github\matrix-spillover\source\MatrixSpillOver\bin\Debug\net8.0\MatrixSpillOver.pdb
+D:\projects\github\matrix-spillover\source\MatrixSpillOver\obj\Debug\net8.0\MatrixSpillOver.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\github\matrix-spillover\source\MatrixSpillOver\obj\Debug\net8.0\MatrixSpillOver.AssemblyInfoInputs.cache
+D:\projects\github\matrix-spillover\source\MatrixSpillOver\obj\Debug\net8.0\MatrixSpillOver.AssemblyInfo.cs
+D:\projects\github\matrix-spillover\source\MatrixSpillOver\obj\Debug\net8.0\MatrixSpillOver.csproj.CoreCompileInputs.cache
+D:\projects\github\matrix-spillover\source\MatrixSpillOver\obj\Debug\net8.0\MatrixSpillOver.dll
+D:\projects\github\matrix-spillover\source\MatrixSpillOver\obj\Debug\net8.0\refint\MatrixSpillOver.dll
+D:\projects\github\matrix-spillover\source\MatrixSpillOver\obj\Debug\net8.0\MatrixSpillOver.pdb
+D:\projects\github\matrix-spillover\source\MatrixSpillOver\obj\Debug\net8.0\MatrixSpillOver.genruntimeconfig.cache
+D:\projects\github\matrix-spillover\source\MatrixSpillOver\obj\Debug\net8.0\ref\MatrixSpillOver.dll
